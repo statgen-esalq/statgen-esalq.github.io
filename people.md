@@ -95,6 +95,6 @@ Currently she is doing a Scientific Initiation (CNPq) with the project "Developm
 
 #### Pedro Afonso Jaloto (by himself)
 
-**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/pedro.jpg" height="90">{: .image-pull-right} 
+**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/pedro.png" height="50" >{: .image-pull-right} 
 
 His current project is the result of a partnership between Embrapa and the Lab, and is titled "Application of statistical methodologies for pedigree reconstruction in autopolyploidy using biallelic markers," focusing on Panicum Maximum. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/6739853439786505).
