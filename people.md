@@ -58,7 +58,7 @@ She has interest in study computational tools and statistical methods for plant 
 
 _**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). <img src="{{ site.url }}/images/Gabriel.jpg" width="100">{: .image-pull-right}
 
-During his undergraduate and Master degrees he worked out with soybean breeding, focusing in early cultivars development and evaluation, quantitative genetics and studies about quantitative traits association. Nowadays, Gabriel is interested in quantitative genetics, genomic selection, genome-wide association studies and development of statistical methods for plant breeding. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
+She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
 
 
 #### Jhonathan Pedroso Rigal dos Santos (by himself)
@@ -91,3 +91,10 @@ During her undergraduate, she had a three-year internship in a Cotton Breeding P
 _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/Jessica.jpg" height="120">{: .image-pull-right} 
 
 Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
+
+
+#### Pedro Afonso Jaloto (by himself)
+
+**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/pedro.jpg" height="120">{: .image-pull-right} 
+
+His current project is the result of a partnership between Embrapa and the Lab, and is titled "Application of statistical methodologies for pedigree reconstruction in autopolyploidy using biallelic markers," focusing on Panicum Maximum. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/6739853439786505).
