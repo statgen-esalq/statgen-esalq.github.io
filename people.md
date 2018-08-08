@@ -52,7 +52,7 @@ She has an undergraduate degree in Biology and Master degree in Genetics and Pla
 
 _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). <img src="{{ site.url }}/images/Cristiane.jpg" width="100">{: .image-pull-right}
 
-She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves the study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
+She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
 
 #### Gabriel de Siqueira Gesteira (by himself)
 
@@ -95,6 +95,6 @@ Currently she is doing a Scientific Initiation (CNPq) with the project "Developm
 
 #### Pedro Afonso Jaloto (by himself)
 
-**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/pedro.jpg" height="120">{: .image-pull-right} 
+**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/pedro.jpg" height="90">{: .image-pull-right} 
 
 His current project is the result of a partnership between Embrapa and the Lab, and is titled "Application of statistical methodologies for pedigree reconstruction in autopolyploidy using biallelic markers," focusing on Panicum Maximum. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/6739853439786505).
