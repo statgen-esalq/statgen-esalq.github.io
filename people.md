@@ -98,3 +98,10 @@ Currently she is doing a Scientific Initiation (CNPq) with the project "Developm
 _**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/pedro.png" height="50" >{: .image-pull-right} 
 
 His current project is the result of a partnership between Embrapa and the Lab, and is titled "Application of statistical methodologies for pedigree reconstruction in autopolyploidy using biallelic markers," focusing on _Panicum maximum_. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/6739853439786505).
+
+#### Mayara Aparecida Corrêa (by herself)
+
+_**Mayara**_ is an undergraduate student in Agricultural Engineering (Bachelor’s degree and licenciate degree) at the “Luiz de Queiroz” College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/mayara.png" height="100" >{: .image-pull-right} 
+
+Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
+
