@@ -74,6 +74,12 @@ _**Rafael**_ is a PhD Candidate in Genetics and Plant Breeding at University of 
 His currently research focus on simulate different strategies in a breeding program of autogamous species to improve selection accuracy. Highlighting evaluation of early generations to select progenies in advanced cycles and also genomic selection aiming to identify promising biparental populations. His main interest are quantitative genetics, mixed model, genomic selection and programming, especially in R and C/C++.
 For more information about Rafael, please visit his [Lattes CV](http://lattes.cnpq.br/8662220181307266).
 
+#### Getúlio Caixeta Ferreira (by himself)
+
+_**Getúlio**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He has a Master degree in the same area and undergraduate degree in Agronomy by Federal University of Lavras (UFLA). <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4849837J6" height="100">{: .image-pull-right}
+
+During master's degree, he worked with common bean and eucalyptus breeding. He is interested in quantitative genetics, plant breeding and genome wide selection. For more information about Getúlio, please visit his [Lattes CV](http://lattes.cnpq.br/0992474608649428).  
+
 
 ## MSc Students
 
