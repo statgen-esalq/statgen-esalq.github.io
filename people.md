@@ -76,7 +76,7 @@ For more information about Rafael, please visit his [Lattes CV](http://lattes.cn
 
 #### Getúlio Caixeta Ferreira (by himself)
 
-_**Getúlio**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He has a Master degree in the same area and undergraduate degree in Agronomy by Federal University of Lavras (UFLA). <img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4849837J6" height="100">{: .image-pull-right}
+<img src="http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4849837J6" height="100">{: .image-pull-right} _**Getúlio**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He has a Master degree in the same area and undergraduate degree in Agronomy by Federal University of Lavras (UFLA).
 
 During master's degree, he worked with common bean and eucalyptus breeding. He is interested in quantitative genetics, plant breeding and genome wide selection. For more information about Getúlio, please visit his [Lattes CV](http://lattes.cnpq.br/0992474608649428).  
 
