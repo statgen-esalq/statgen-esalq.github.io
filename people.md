@@ -50,19 +50,19 @@ She has an undergraduate degree (2011) in Biology and Master degree (2013) in Ge
 
 #### Cristiane Hayumi Taniguti (by herself)
 
-_**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). <img src="{{ site.url }}/images/Cristiane.jpg" width="100">{: .image-pull-right}
+<img src="{{ site.url }}/images/Cristiane.jpg" width="100">{: .image-pull-right} _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
 
 She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
 
 #### Gabriel de Siqueira Gesteira (by himself)
 
-<img src="{{ site.url }}/images/Gabriel.jpg" width="100">{: .image-pull-right} _**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). 
+<img src="{{ site.url }}/images/Gabriel.jpg" width="120">{: .image-pull-right} _**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). 
 
 During his undergraduate and Master degrees he worked out with soybean breeding, focusing in early cultivars development and evaluation, quantitative genetics and studies about quantitative traits association. Nowadays, Gabriel is interested in quantitative genetics, genomic selection, genome-wide association studies and development of statistical methods for plant breeding. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
 
 #### Jhonathan Pedroso Rigal dos Santos (by himself)
 
-_**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Jhonathan.jpg" height="100">{: .image-pull-right}
+_**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Jhonathan.jpg" height="70">{: .image-pull-right}
 
 He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools. For more information about Jhonathan, please visit her [Lattes CV](http://lattes.cnpq.br/3501227295313935).
 
