@@ -56,13 +56,13 @@ She has interest in study computational tools and statistical methods for plant 
 
 #### Gabriel de Siqueira Gesteira (by himself)
 
-_**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). <img src="{{ site.url }}/images/Gabriel.jpg" width="100">{: .image-pull-right}
+<img src="{{ site.url }}/images/Gabriel.jpg" width="100">{: .image-pull-right} _**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). 
 
 During his undergraduate and Master degrees he worked out with soybean breeding, focusing in early cultivars development and evaluation, quantitative genetics and studies about quantitative traits association. Nowadays, Gabriel is interested in quantitative genetics, genomic selection, genome-wide association studies and development of statistical methods for plant breeding. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
 
 #### Jhonathan Pedroso Rigal dos Santos (by himself)
 
-_**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Jhonathan.jpg" height="120">{: .image-pull-right}
+_**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Jhonathan.jpg" height="100">{: .image-pull-right}
 
 He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools. For more information about Jhonathan, please visit her [Lattes CV](http://lattes.cnpq.br/3501227295313935).
 
@@ -85,7 +85,7 @@ During master's degree, he worked with common bean and eucalyptus breeding. He i
 
 #### Camila Godoy dos Santos (by herself)
 
-_**Camila**_ is an Agronomist (Federal University of Uberlândia) and Master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ / USP). <img src="{{ site.url }}/images/Camila.jpg" height="120">{: .image-pull-right}
+<img src="{{ site.url }}/images/Camila.jpg" height="120">{: .image-pull-right} _**Camila**_ is an Agronomist (Federal University of Uberlândia) and Master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ / USP).
 
 During her undergraduate, she had a three-year internship in a Cotton Breeding Program, working with genetic diversity and microsatellite markers. Currently, Camila is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Camila, please visit her [Lattes CV](http://lattes.cnpq.br/9735061947784332).
 
@@ -93,20 +93,21 @@ During her undergraduate, she had a three-year internship in a Cotton Breeding P
 ## Undergraduated students
 
 #### Jéssica Carolina Zilio (by herself) 
-_**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/Jessica.jpg" height="120">{: .image-pull-right} 
+
+ <img src="{{ site.url }}/images/Jessica.jpg" height="120">{: .image-pull-right} _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
 
 Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
 
 
 #### Pedro Afonso Jaloto (by himself)
 
-_**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/pedro.png" height="50" >{: .image-pull-right} 
+<img src="{{ site.url }}/images/pedro.png" height="50" >{: .image-pull-right} _**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). 
 
 His current project is the result of a partnership between Embrapa and the Lab, and is titled "Application of statistical methodologies for pedigree reconstruction in autopolyploidy using biallelic markers," focusing on _Panicum maximum_. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/6739853439786505).
 
 #### Mayara Aparecida Corrêa (by herself)
 
-_**Mayara**_ is an undergraduate student in Agricultural Engineering (Bachelor’s degree and licenciate degree) at the “Luiz de Queiroz” College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/mayara.png" height="100" >{: .image-pull-right} 
+<img src="{{ site.url }}/images/mayara.png" height="100" >{: .image-pull-right} _**Mayara**_ is an undergraduate student in Agricultural Engineering (Bachelor’s degree and licenciate degree) at the “Luiz de Queiroz” College of Agriculture (ESALQ/USP). 
 
 Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
 
