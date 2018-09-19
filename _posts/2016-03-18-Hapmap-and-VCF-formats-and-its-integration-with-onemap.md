@@ -295,6 +295,29 @@ And then,
 
     /run_pipeline.pl -Xmx5g -fork1 -h example.hmp.txt -export -exportType VCF -runfork1
 
+<p>Using the software TASSEL 5:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://bitbucket.org/tasseladmin/tasselk-5-standalone.git
+</code></pre></div></div>
+
+<p>And then,</p>
+
+<ul>
+  <li>VCF to Hapmap:</li>
+</ul>
+
+<!-- -->
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./run_pipeline.pl  -Xmx5g  -fork1  -vcf  example.vcf  -export  -exportType  Hapmap  -fork1c </code></pre></div></div>
+
+<ul>
+  <li>Hapmap to VCF:</li>
+</ul>
+
+<!-- -->
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./run_pipeline.pl  -Xmx5g  -fork1  -h  example.hmp.txt  -export  -exportType  VCF  -fork1c </code></pre></div></div>
+
 Besides that, it can be found several others user made scripts available
 at github platform to do the same conversion.
 
@@ -395,10 +418,10 @@ separate by at least one space, a tab or a line break. A dash (-)
 indicates missing data.
 
 With this file format we can use the OneMap function called
-`read.mapmaker` to import the data to OneMap.
+`read_mapmaker` to import the data to OneMap.
 
-    ?read.mapmaker       #For more informations about this function
-    onemap_file_f2 <- read.mapmaker(dir="C:/workingdirectory",
+    ?read_mapmaker       #For more informations about this function
+    onemap_file_f2 <- read_mapmaker(dir="C:/workingdirectory",
                                     file="your_data_file.raw")
 
 Constructing maps for outcrossing populations OneMap implements the [Wu
@@ -564,19 +587,21 @@ possible values vary according to the specific marker type.
 
 Below, an example of input file which must be saved as text format:
 
-    10 5 0
+    cross type outcross
+    10 5 0 0 0
+    ID1 ID2 ID3 ID5 ID6 ID7 ID8 ID9 ID10
     *M1 B3.7    ab,ab,-,ab,b,ab,ab,-,ab,b 
     *M2 D2.18   o,-,a,a,-,o,a,-,o,o 
     *M3 D1.13   o,a,a,o,o,-,a,o,a,o 
     *M4 A.4     ab,b,-,ab,a,b,ab,b,-,a 
     *M5 D2.18   a,a,o,-,o,o,a,o,o,o 
 
-Which can be imported to OneMap by the function `read.outcross`:
+Which can be imported to OneMap by the function `read_onemap`:
 
-    ?read.outcross  #For more information about this function
-    onemap_file_outcross <- read.outcross("C:/workingdirectory","example.out.txt")
+    ?read_onemap  #For more information about this function
+    onemap_file_outcross <- read_onemap("C:/workingdirectory","example.out.txt")
 
-The first argument of `read.outcross` function is the path to the file
+The first argument of `read_onemap` function is the path to the file
 directory and the second is the file name.
 
 With the new function `vcf2raw` it is possible to convert VCF file
@@ -652,7 +677,7 @@ The closing lines (begining with `*CHROM` and `*POS`) keep the reference
 sequence ID and position for each variant site. The new version of
 OneMap will be able to deal with this information in order to increase
 the precision of the genetic map. This file is a input file to
-`read.outcross` function.
+`read_onemap` function.
 
 Now you are good to go build your map on onemap package!
 
