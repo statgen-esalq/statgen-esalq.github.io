@@ -12,6 +12,15 @@ image:
 
 Here we list the softwares developed and under development by the Statiscal-Genetics Laboratory and partners.
 
+#### MAPpoly 
+Software for constructing genetic maps in autopolyploids.
+To install it, please follow the instructions on Github:
+- [www.github.com/mmollina/MAPpoly](https://www.github.com/mmollina/MAPpoly)
+
+The original article can be found at:
+
+- [Mollinari, M., & Garcia, A. A. F. (2019). Linkage analysis and haplotype phasing in experimental autopolyploid populations with high ploidy level using hidden Markov models. G3: Genes, Genomes, Genetics, 9(10), 3297-3314.](https://www.g3journal.org/content/ggg/9/10/3297.full.pdf)
+
 #### OneMap 
 Software for constructing genetic maps in experimental crosses: full-sib, RILs, F2 and backcrosses.
 To install, we recommend the under development (and constantly upgraded) version from github:
