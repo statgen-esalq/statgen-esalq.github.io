@@ -11,14 +11,33 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
+#### Letícia Aparecida de Castro Lara (by herself)
+
+_**Letícia**_  is a postdoctor at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Leticia.jpg" height="120">{: .image-pull-right}
+
+She has an undergraduate degree (2011) in Biology and Master degree (2013) in Genetics and Plant Breeding at Federal University of Lavras (UFLA). During her undergraduate and master, she worked with molecular genetics focusing on identification of QTL for disease resistance in common bean. She has a PhD degree (2017) at University of São Paulo (ESALQ/USP), in which she worked with development of statistical models in genomic selection considering allele dosage for autotetraploid species, with applications in *Panicum maximum*. In 2016 she was a visitor Scholar at North Carolina State University (NCSU, USA), supervised by Professor Zhao-Bang Zeng, where she compared the accuracy of prediction models using pseudodiploid and tetraploid dosage. She was a postdoctor in the Lab until 2019, where she worked with linkage and QTL mapping in *P. maximum* and collaboratied with genetic mapping studies in *Brachiaria decumbens* (tetraploid), *B. humidicola* (hexaploid), and sugarcane. She has concentrated her studies in quantitative genetics of polyploids, computing for statistical genetics (especially in R software) and mixed models. For more information about Letícia, please visit her [Lattes CV](http://lattes.cnpq.br/6188422226038954). Currently, she is a research fellow at the Roslin Institute (United Kingdom).
+
+#### Jhonathan Pedroso Rigal dos Santos (by himself)
+
+_**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) and PhD in Genetics and Plant Breeding (University of São Paulo - ESALQ/USP). <img src="{{ site.url }}/images/Jhonathan.jpg" height="70">{: .image-pull-right}
+
+He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). During his PhD, he developed and evaluated Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools. For more information about Jhonathan, please visit her [Lattes CV](http://lattes.cnpq.br/3501227295313935). Currently, he is a Research Scientist at Corteva Agrisciences, Johnston (USA).
+
+
+#### Rafael Storto Nalin (by himself)
+
+_**Rafael**_ got his PhD in Genetics and Plant Breeding at University of São Paulo (ESALQ/USP). He has a Master degree in the same area by Federal University of Lavras and undergraduate degree in Agronomy by Federal Institute of Mato Grosso. <img src="{{ site.url }}/images/Rafael.jpg" height="100">{: .image-pull-right}
+
+During his PhD, he worked on simulating different strategies in a breeding program of autogamous species to improve selection accuracy. Highlighting evaluation of early generations to select progenies in advanced cycles and also genomic selection aiming to identify promising biparental populations. His main interest are quantitative genetics, mixed model, genomic selection and programming, especially in R and C/C++.
+For more information about Rafael, please visit his [Lattes CV](http://lattes.cnpq.br/8662220181307266). Currently, he is a soybean Breeder at Bayer (Sorriso/MT).
+
 #### Luís Felipe Ventorim Ferrão (by himself)
 
 _**Felipe**_ is Biologist and a PhD in Genetics and Plant Breeding (FAPESP grant number 2014/20389-2), University of São Paulo (ESALQ/USP). While PhD, his research focuses on the application and development of statistical methods of both computational and statistical tools for genomic prediction. His studies were concentrated in Computing for Statistical Genetics (especially in R software), mixed models and, more recently, Bayesian approaches. His research experiences include genetic diversity studies, development and validation of molecular markers and QTL mapping. Most of his studies are applied in *Coffea canephora*, one of the coffee species most consumed in the world. During his PhD, he was a visiting student at the University of Chicago (FAPESP Research Internship Abroad), working under supervision of [Matthew Stephens](http://stephenslab.uchicago.edu/). For more information about Felipe, please visit his [Lattes CV](http://lattes.cnpq.br/6407723072644101). Currently, he is a postdoctoral fellow at University of Florida under supervision of Prof. Patricio Munoz.
 
 #### João Ricardo Bachega Feijó Rosa (by himself)
 
-_**João Ricardo**_ has an undergraduate degree in Agronomy, has MSc (2012) and PhD (2016) in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo. He initiated his career as a sugarcane breeder at Federal University of São Carlos, one of the principal Federal Universities in Brazil that is responsible for RIDESA, a public country-wide sugarcane breeding program. During his master degree at Department of Genetics of the University of São Paulo, João was interested to investigate the patterns of linkage disequilibrium and population structure on a Brazilian collection of sugarcane genotypes, a group of historically important accessions to Brazilian germplasm. His principal interest while a PhD Candidate was to use coalescent theory and population genetics concepts to understand the linkage disequilibrium and the evolutionary past of an important panel of accessions of Sorghum using next generation sequencing (SNPs from Genotyping-By-Sequencing). Furthermore, João was also involved into genome-wide association studies in Sorghum and collaborative projects of linkage analysis and association mapping of other very important crops for Brazil, such as common bean, cacao and passion fruit. For more information about João, please visit his [Lattes CV](http://lattes.cnpq.br/2084381270708398). Now he is soybean assistant breeder at FTs Sementes. 
-
+_**João Ricardo**_ has an undergraduate degree in Agronomy, has MSc (2012) and PhD (2016) in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo. He initiated his career as a sugarcane breeder at Federal University of São Carlos, one of the principal Federal Universities in Brazil that is responsible for RIDESA, a public country-wide sugarcane breeding program. During his master degree at Department of Genetics of the University of São Paulo, João was interested to investigate the patterns of linkage disequilibrium and population structure on a Brazilian collection of sugarcane genotypes, a group of historically important accessions to Brazilian germplasm. His principal interest while a PhD Candidate was to use coalescent theory and population genetics concepts to understand the linkage disequilibrium and the evolutionary past of an important panel of accessions of Sorghum using next generation sequencing (SNPs from Genotyping-By-Sequencing). Furthermore, João was also involved into genome-wide association studies in Sorghum and collaborative projects of linkage analysis and association mapping of other very important crops for Brazil, such as common bean, cacao and passion fruit. For more information about João, please visit his [Lattes CV](http://lattes.cnpq.br/2084381270708398).
 
 #### Marianella Fernanda Quezada Macchiavello (by herself)
 
@@ -94,8 +113,7 @@ Renato finished his PhD in 2013 and was a post-doc at University of Wisconsin-Ma
 
 #### Maria Marta Pastina
 
-Maria Marta got her PhD in 2010 after that worked as a postdoc in the Lab. She also started as an undergraduated student. She now works at
-EMBRAPA Milho e Sorgo.
+Maria Marta got her PhD in 2010 after that worked as a postdoc in the Lab. She also started as an undergraduated student. She now works at EMBRAPA Milho e Sorgo.
 
 #### Graciela da Rocha Sobierajski
 
