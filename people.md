@@ -40,12 +40,6 @@ _**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (201
 
 In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he was a visitor Scholar at University of Florida in 2015, working in a statistical-genetics model for genotype-by-environment interaction for genome wide selection analysis. He has experience in plant breeding, quantitative genetics, linear mixed models and genome wide selection. His currently work is about quantitative genetics, linear mixed model and bayesian approach applied to plant breeding. For more information about Kaio, please visit his [Lattes CV](http://lattes.cnpq.br/7079781475856604).
 
-#### Letícia Aparecida de Castro Lara (by herself)
-
-_**Letícia**_  is a postdoctor at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Leticia.jpg" height="120">{: .image-pull-right}
-
-She has an undergraduate degree (2011) in Biology and Master degree (2013) in Genetics and Plant Breeding at Federal University of Lavras (UFLA). During her undergraduate and master, she worked with molecular genetics focusing on identification of QTL for disease resistance in common bean. She has a PhD degree (2017) at University of São Paulo (ESALQ/USP), in which she worked with development of statistical models in genomic selection considering allele dosage for autotetraploid species, with applications in *Panicum maximum*. In 2016 she was a visitor Scholar at North Carolina State University (NCSU, USA), supervised by Professor Zhao-Bang Zeng, where she compared the accuracy of prediction models using pseudodiploid and tetraploid dosage. Currently, she is working with linkage and QTL mapping in *P. maximum* and is colaborating with genetic mapping studies in *Brachiaria decumbens* (tetraploid), *B. humidicola* (hexaploid), and sugarcane. She has concentrated her studies in quantitative genetics of polyploids, computing for statistical genetics (especially in R software) and mixed models. For more information about Letícia, please visit her [Lattes CV](http://lattes.cnpq.br/6188422226038954).
-
 ## PhD Students
 
 #### Cristiane Hayumi Taniguti (by herself)
@@ -58,21 +52,7 @@ She has interest in study computational tools and statistical methods for plant 
 
 <img src="{{ site.url }}/images/Gabriel.jpg" width="120">{: .image-pull-right} _**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). 
 
-During his undergraduate and Master degrees he worked out with soybean breeding, focusing in early cultivars development and evaluation, quantitative genetics and studies about quantitative traits association. Nowadays, Gabriel is interested in quantitative genetics, genomic selection, genome-wide association studies and development of statistical methods for plant breeding. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
-
-#### Jhonathan Pedroso Rigal dos Santos (by himself)
-
-_**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Jhonathan.jpg" height="70">{: .image-pull-right}
-
-He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools. For more information about Jhonathan, please visit her [Lattes CV](http://lattes.cnpq.br/3501227295313935).
-
-
-#### Rafael Storto Nalin (by himself)
-
-_**Rafael**_ is a PhD Candidate in Genetics and Plant Breeding at University of São Paulo (ESALQ/USP). He has a Master degree in the same area by Federal University of Lavras and undergraduate degree in Agronomy by Federal Institute of Mato Grosso. <img src="{{ site.url }}/images/Rafael.jpg" height="100">{: .image-pull-right}
-
-His currently research focus on simulate different strategies in a breeding program of autogamous species to improve selection accuracy. Highlighting evaluation of early generations to select progenies in advanced cycles and also genomic selection aiming to identify promising biparental populations. His main interest are quantitative genetics, mixed model, genomic selection and programming, especially in R and C/C++.
-For more information about Rafael, please visit his [Lattes CV](http://lattes.cnpq.br/8662220181307266).
+During his undergraduate and Master degrees he worked out with soybean breeding, focusing on early cultivar development and evaluation, quantitative genetics and studies about association among quantitative traits. Nowadays, Gabriel is interested in quantitative genetics, genomic selection, genome-wide association studies and development of statistical methods for plant breeding. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
 
 #### Getúlio Caixeta Ferreira (by himself)
 
@@ -80,15 +60,17 @@ For more information about Rafael, please visit his [Lattes CV](http://lattes.cn
 
 During master's degree, he worked with common bean and eucalyptus breeding. He is interested in quantitative genetics, plant breeding and genome wide selection. For more information about Getúlio, please visit his [Lattes CV](http://lattes.cnpq.br/0992474608649428).  
 
-
-## MSc Students
-
 #### Camila Godoy dos Santos (by herself)
 
 <img src="{{ site.url }}/images/Camila.jpg" height="120">{: .image-pull-right} _**Camila**_ is an Agronomist (Federal University of Uberlândia) and Master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ / USP).
 
 During her undergraduate, she had a three-year internship in a Cotton Breeding Program, working with genetic diversity and microsatellite markers. Currently, Camila is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Camila, please visit her [Lattes CV](http://lattes.cnpq.br/9735061947784332).
 
+## MSc Students
+
+#### Vitória Bizão Murakami (by herself)
+
+(Coming soon)
 
 ## Undergraduated students
 
@@ -111,3 +93,10 @@ His current project is the result of a partnership between Embrapa and the Lab, 
 
 Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
 
+#### Rafaela (by herself)
+
+(Coming soon)
+
+#### Renan Cleto da Silva (by himself)
+
+(Coming soon)
