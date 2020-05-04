@@ -80,7 +80,7 @@ During her undergraduate, she had a three-year internship in a Cotton Breeding P
 
 Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
 
-<br>
+<br><br>
 
 #### Pedro Afonso Jaloto (by himself)
 
@@ -88,7 +88,7 @@ Currently she is doing a Scientific Initiation (CNPq) with the project "Developm
 
 His current project is the result of a partnership between Embrapa and the Lab, and is titled "Application of statistical methodologies for pedigree reconstruction in autopolyploidy using biallelic markers," focusing on _Panicum maximum_. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/6739853439786505).
 
-<br>
+<br><br>
 
 #### Mayara Aparecida Corrêa (by herself)
 
@@ -96,7 +96,7 @@ His current project is the result of a partnership between Embrapa and the Lab, 
 
 Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
 
-<br>
+<br><br>
 
 #### Rafaela Prado Graciano (by herself)
 
@@ -104,7 +104,7 @@ Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of 
 
 Currently, she has a Scientific Initiation fellow at CAPES, her project is the result of a partnership between Embrapa and the Lab, and involves genomic selection in Panicum maximum. For more information about Rafaela, please visit her [Lattes CV](http://lattes.cnpq.br/1585850974099004).
 
-<br>
+<br><br>
 
 #### Renan Cleto da Silva (by himself)
 
