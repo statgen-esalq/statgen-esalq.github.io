@@ -93,9 +93,11 @@ His current project is the result of a partnership between Embrapa and the Lab, 
 
 Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
 
-#### Rafaela (by herself)
+#### Rafaela Prado Graciano (by herself)
 
-(Coming soon)
+_**Rafaela**_ is an undergraduate student in biological sciences (Bachelor’s degree and licenciate degree) at the "Luiz de Queiroz" College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/rafaela.jpeg" width="120">{: .image-pull-right}
+
+Currently, she has a Scientific Initiation fellow at CAPES, her project is the result of a partnership between Embrapa and the Lab, and involves genomic selection in Panicum maximum. For more information about Rafaela, please visit her [Lattes CV](http://lattes.cnpq.br/1585850974099004).
 
 #### Renan Cleto da Silva (by himself)
 
