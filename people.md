@@ -75,32 +75,32 @@ During her undergraduate, she had a three-year internship in a Cotton Breeding P
 ## Undergraduated students
 
 #### Jéssica Carolina Zilio (by herself) 
-
- <img src="{{ site.url }}/images/Jessica.jpg" height="100">{: .image-pull-right} _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
+<img src="{{ site.url }}/images/Jessica.jpg" height="100">{: .image-pull-right} 
+ _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
 
 Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
 
 <br><br>
 
 #### Pedro Afonso Jaloto (by himself)
-
-<img src="{{ site.url }}/images/pedro.png" height="40" >{: .image-pull-right} _**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). 
+<img src="{{ site.url }}/images/pedro.png" height="40" >{: .image-pull-right} 
+_**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). 
 
 His current project is the result of a partnership between Embrapa and the Lab, and is titled "Application of statistical methodologies for pedigree reconstruction in autopolyploidy using biallelic markers," focusing on _Panicum maximum_. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/6739853439786505).
 
 <br><br>
 
 #### Mayara Aparecida Corrêa (by herself)
-
-<img src="{{ site.url }}/images/mayara.png" height="90" >{: .image-pull-right} _**Mayara**_ is an undergraduate student in Agricultural Engineering (Bachelor’s degree and licenciate degree) at the “Luiz de Queiroz” College of Agriculture (ESALQ/USP). 
+<img src="{{ site.url }}/images/mayara.png" height="90" >{: .image-pull-right} 
+_**Mayara**_ is an undergraduate student in Agricultural Engineering (Bachelor’s degree and licenciate degree) at the “Luiz de Queiroz” College of Agriculture (ESALQ/USP). 
 
 Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
 
 <br><br>
 
 #### Rafaela Prado Graciano (by herself)
-
-<img src="{{ site.url }}/images/rafaela.jpeg" width="120">{: .image-pull-right} _**Rafaela**_ is an undergraduate student in biological sciences (Bachelor’s degree and licenciate degree) at the "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
+<img src="{{ site.url }}/images/rafaela.jpeg" width="120">{: .image-pull-right} 
+_**Rafaela**_ is an undergraduate student in biological sciences (Bachelor’s degree and licenciate degree) at the "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
 
 Currently, she has a Scientific Initiation fellow at CAPES, her project is the result of a partnership between Embrapa and the Lab, and involves genomic selection in Panicum maximum. For more information about Rafaela, please visit her [Lattes CV](http://lattes.cnpq.br/1585850974099004).
 
