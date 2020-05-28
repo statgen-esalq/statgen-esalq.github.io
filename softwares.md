@@ -53,6 +53,8 @@ Otherwise, you can install the stable version:
 
 - [https://cran.r-project.org/web/packages/updog/](https://cran.r-project.org/web/packages/updog/)
 
+The original article can be found at:
+
 - [Gerard, D., Ferrão, L. F. V., Garcia, A. A. F., & Stephens, M. (2018). Genotyping Polyploids from Messy Sequencing Data. Genetics, 210(3), 789-807.](https://doi.org/10.1534/genetics.118.301468)
 
 #### AGHMatrix
