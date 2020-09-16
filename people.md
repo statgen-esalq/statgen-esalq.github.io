@@ -68,7 +68,7 @@ During her undergraduate, she had a three-year internship in a Cotton Breeding P
 
 #### Wellingson Assunção Araújo (by himself)
 
-<img src="{{ site.url }}/images/wellingson.jpeg" height="120">{: .image-pull-right} _**Wellingson**_ is an Agronomist and has a Master’s degree in Genetics and Breeding at the Federal University of Viçosa (UFV). 
+<img src="{{ site.url }}/images/wellingson.jpeg" width="120">{: .image-pull-right} _**Wellingson**_ is an Agronomist and has a Master’s degree in Genetics and Breeding at the Federal University of Viçosa (UFV). 
 
 During his major and master's degree, he worked with tissue culture and molecular markers in the cultures of Sugarcane, Palm oil, Macaúba palm and passion fruit. Currently, he is a Ph.D. candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He has dedicated his studies to quantitative genetics, genome-wide association, QTL mapping and genomic selection. For more information about Wellingson, please visit his [Lattes CV](http://lattes.cnpq.br/1557919698222512).
 
@@ -111,7 +111,3 @@ _**Rafaela**_ is an undergraduate student in biological sciences (Bachelor’s d
 Currently, she has a Scientific Initiation fellow at CAPES, her project is the result of a partnership between Embrapa and the Lab, and involves genomic selection in Panicum maximum. For more information about Rafaela, please visit her [Lattes CV](http://lattes.cnpq.br/1585850974099004).
 
 <br><br>
-
-#### Renan Cleto da Silva (by himself)
-
-(Coming soon)
