@@ -78,7 +78,7 @@ During his major and master's degree, he worked with tissue culture and molecula
 
 <img src="{{ site.url }}/images/vitoria.jpeg" width="160">{: .image-pull-right} _**Vitória**_ has a degree in Biotechnology by Universidade Federal de São Carlos (USFCar). 
 
-During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises genomic and environment interaction. For more information about Vitória, please visit her Lattes CV.
+During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises genomic and environment interaction. For more information about Vitória, please visit her [Lattes CV](http://lattes.cnpq.br/9957782887703497).
 
 ## Undergraduated students
 
