@@ -11,6 +11,25 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
+
+
+#### Jéssica Carolina Zilio (by herself) 
+<img src="{{ site.url }}/images/Jessica.jpg" height="100">{: .image-pull-right} 
+ _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
+
+Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
+
+<br><br>
+
+#### Mayara Aparecida Corrêa (by herself)
+<img src="{{ site.url }}/images/mayara.png" height="90" >{: .image-pull-right} 
+_**Mayara**_ is an undergraduate student in Agricultural Engineering (Bachelor’s degree and licenciate degree) at the “Luiz de Queiroz” College of Agriculture (ESALQ/USP). 
+
+Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
+
+<br><br>
+
+
 #### Letícia Aparecida de Castro Lara (by herself)
 
 _**Letícia**_ has an undergraduate degree (2011) in Biology and Master degree (2013) in Genetics and Plant Breeding at Federal University of Lavras (UFLA).<img src="{{ site.url }}/images/Leticia.jpg" height="120">{: .image-pull-right}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SNP calling with Docker
-description: "For beginners with focus on Bioinformatics and Genetics."
+description: "Performs SNP calling with STACKs, freebayes and GATK using Docker images"
 modified: 2016-08-16
 tags: [tips, introduction, tutorial, docker, GATK, freebayes, stacks]
 image:

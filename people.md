@@ -44,7 +44,7 @@ In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he wa
 
 #### Cristiane Hayumi Taniguti (by herself)
 
-<img src="{{ site.url }}/images/Cristiane.jpg" width="100">{: .image-pull-right} _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
+<img src="{{ site.url }}/images/Cristiane.jpeg" width="100">{: .image-pull-right} _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
 
 She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
 
@@ -82,14 +82,6 @@ During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Se
 
 ## Undergraduated students
 
-#### Jéssica Carolina Zilio (by herself) 
-<img src="{{ site.url }}/images/Jessica.jpg" height="100">{: .image-pull-right} 
- _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
-
-Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
-
-<br><br>
-
 #### Pedro Afonso Jaloto (by himself)
 <img src="{{ site.url }}/images/pedro.png" height="40" >{: .image-pull-right} 
 _**Pedro**_ is an undergraduate student at the University of São Paulo, majoring in Agronomy at the Luiz de Queiroz College of Agriculture (ESALQ/USP). 
@@ -98,13 +90,6 @@ His current project is the result of a partnership between Embrapa and the Lab, 
 
 <br><br>
 
-#### Mayara Aparecida Corrêa (by herself)
-<img src="{{ site.url }}/images/mayara.png" height="90" >{: .image-pull-right} 
-_**Mayara**_ is an undergraduate student in Agricultural Engineering (Bachelor’s degree and licenciate degree) at the “Luiz de Queiroz” College of Agriculture (ESALQ/USP). 
-
-Currently, she has a Scientific Initiation fellow at CAPES in the Laboratory of Genetics and Statistics. Her project involves the production of genetic maps of a maize population.  For more information about Mayara, please visit her [Lattes CV](http://lattes.cnpq.br/5083960719521143).
-
-<br><br>
 
 #### Rafaela Prado Graciano (by herself)
 <img src="{{ site.url }}/images/rafaela.jpeg" width="120">{: .image-pull-right} 
