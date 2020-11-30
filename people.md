@@ -36,7 +36,7 @@ Emacs, LaTeX, and git, among many other software and tools.
 
 #### Kaio Olímpio das Graças Dias (by himself)
 
-_**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (2013) and PhD (2016) in Genetics and Plant Breeding at Federal University of Lavras (UFLA). <img src="{{ site.url }}/images/Kaio.jpg" height="130">{: .image-pull-right}
+ <img src="{{ site.url }}/images/Kaio.jpg" width="130">{: .image-pull-right} _**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (2013) and PhD (2016) in Genetics and Plant Breeding at Federal University of Lavras (UFLA).
 
 In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he was a visitor Scholar at University of Florida in 2015, working in a statistical-genetics model for genotype-by-environment interaction for genome wide selection analysis. He has experience in plant breeding, quantitative genetics, linear mixed models and genome wide selection. His currently work is about quantitative genetics, linear mixed model and bayesian approach applied to plant breeding. For more information about Kaio, please visit his [Lattes CV](http://lattes.cnpq.br/7079781475856604).
 
@@ -44,7 +44,7 @@ In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he wa
 
 #### Cristiane Hayumi Taniguti (by herself)
 
-<img src="{{ site.url }}/images/Cristiane.jpeg" height="130">{: .image-pull-right} _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
+<img src="{{ site.url }}/images/Cristiane.jpeg" width="130">{: .image-pull-right} _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
 
 She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
 
