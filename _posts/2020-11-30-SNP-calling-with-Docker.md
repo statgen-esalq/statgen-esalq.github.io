@@ -11,7 +11,7 @@ image:
 
 * Written by [Cristiane Hayumi Taniguti](https://cristianetaniguti.github.io/)
 
-# What you will need to run this tutorial:
+### What you will need to run this tutorial:
 
 * Linux system
 * At least 4G RAM
