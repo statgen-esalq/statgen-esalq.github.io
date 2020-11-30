@@ -9,7 +9,7 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
-* Written by [Cristiane Hayumi Taniguti](https://cristianetaniguti.github.io/)*
+* Written by [Cristiane Hayumi Taniguti](https://cristianetaniguti.github.io/)
 
 # What you will need to run this tutorial:
 
