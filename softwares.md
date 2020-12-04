@@ -67,4 +67,6 @@ The original article can be found at:
 - [Amadeu, Rodrigo R., et al. "AGHmatrix: R Package to Construct Relationship Matrices for Autotetraploid and Diploid Species: A Blueberry Example." The plant genome (2016).](https://doi.org/10.3835/plantgenome2016.01.0009)
 
 #### fullsibQTL
-Software for QTL mapping in outcrossing species using composite interval mapping. It is under development and will be released soon. Based on [Gazaffi et. al 2014](https://doi.org/10.1007/s11295-013-0664-2).
+Software for QTL mapping in outcrossing species using composite interval mapping. It is based on [Gazaffi et. al 2014](https://doi.org/10.1007/s11295-013-0664-2). I can be found at:
+
+- [https://github.com/augusto-garcia/fullsibQTL](https://github.com/augusto-garcia/fullsibQTL)
