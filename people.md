@@ -98,3 +98,8 @@ _**Rafaela**_ is an undergraduate student in biological sciences (Bachelor’s d
 Currently, she has a Scientific Initiation fellow at CAPES, her project is the result of a partnership between Embrapa and the Lab, and involves genomic selection in Panicum maximum. For more information about Rafaela, please visit her [Lattes CV](http://lattes.cnpq.br/1585850974099004).
 
 <br><br>
+
+#### Laura Lariza Polizel (by herself)
+<img src="{{ site.url }}/images/laura.jpg" width="120">{: .image-pull-right} 
+_**Laura**_ is an undergraduate student in agronomic engineering (Bachelor's and licentiate) at the  "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
+Currently, she has a Scientific Initiation fellow, her project is the result of a partnership between Embrapa and the Lab, which is entitled “Evaluation of grouping methods for genetic diversity studies”. For more information about Laura, visit her [Lattes CV](http://lattes.cnpq.br/5953628951878004).
