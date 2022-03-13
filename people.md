@@ -70,6 +70,13 @@ During her professional career she has been involved researching in different pu
 
 That thought drove him to the Federal University of Goiás (UFG) where he got a bachelor degree in Agronomy, and latter, working with genetic control of the CpMMV in beans, he got a master's degree in genetics and plant breeding. Pedro is Currently studying maize breeding at the University of São Paulo (ESALQ/USP), aiming a better use of molecular markers and field trials to select the best genotypes, and increase the gains in a breeding program. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/2869801032172845).
 
+#### Heitor Calux Mendonça (by himself)
+<img src="{{ site.url }}/images/heitor.jpeg" width="140">{: .image-pull-right}
+_**Heitor**_  is a PhD student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). 
+
+He is an agronomist with a master’s degree in Genetics and Molecular Biology (Londrina State University). During his master’s he worked with Brazilian soybean cultivars, focusing on genetic diversity, selection signatures and the genetic architecture of quantitative traits. For more information about Heitor, please visit his [Lattes CV](http://lattes.cnpq.br/8232680548105974).
+
+
 ## MSc Students
 
 #### Vitória Bizão Murakami (by herself)
