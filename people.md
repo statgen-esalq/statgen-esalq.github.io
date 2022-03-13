@@ -78,6 +78,16 @@ During his major and master's degree, he worked with tissue culture and molecula
 
 During his undergraduate and Master degrees he worked with tissue culture of Cerrado’s natives species and sugarcane. Nowadays, Gabriel is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Gabriel, please visit his [Lattes CV]().
 
+#### Diana Solarte (by herself)
+_**Diana**_ received a master's degree in Agricultural Sciences from Colombia's National University, graduated in Agricultural Engineering from Cauca University and is currently advancing her doctoral studies at University of Sao Paulo (ESALQ/USP).
+ 
+During her professional career she has been involved researching in different public and private institutions in Colombia including CIAT, SENA, Cauca University, Colombia's National University and Tolima University. Experience as a breeder on species such as forages, tomato, andean beans, forests and cannabis sativa. Research main lines molecular biology, plant pathology, population genetics, community-based participatory breeding, quantitative genetics and omics. Currently, her doctoral research involves genetic diversity studies and genome wide association studies for oligogenic traits in cassava
+
+#### Pedro Henrique de Souza (by himself)
+_**Pedro**_  has started as a field technician, working in a farm and always feeling the need to study and understand more about agriculture. 
+
+That thought drove him to the Federal University of Goiás (UFG) where he got a bachelor degree in Agronomy, and latter, working with genetic control of the CpMMV in beans, he got a master's degree in genetics and plant breeding. Pedro is Currently studying maize breeding at the University of São Paulo (ESALQ/USP), aiming a better use of molecular markers and field trials to select the best genotypes, and increase the gains in a breeding program. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/2869801032172845).
+
 ## MSc Students
 
 #### Vitória Bizão Murakami (by herself)
@@ -85,6 +95,9 @@ During his undergraduate and Master degrees he worked with tissue culture of Cer
 <img src="{{ site.url }}/images/vitoria.jpeg" width="240">{: .image-pull-right} _**Vitória**_ has a degree in Biotechnology by Universidade Federal de São Carlos (USFCar). 
 
 During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises genomic and environment interaction. For more information about Vitória, please visit her [Lattes CV](http://lattes.cnpq.br/9957782887703497).
+
+#### Talissa de Oliveira Floriani (by herself)  
+
 
 ## Undergraduated students
 
@@ -109,3 +122,7 @@ Currently, she has a Scientific Initiation fellow at CAPES, her project is the r
 <img src="{{ site.url }}/images/laura.jpg" width="120">{: .image-pull-right} 
 _**Laura**_ is an undergraduate student in agronomic engineering (Bachelor's and licentiate) at the  "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
 Currently, she has a Scientific Initiation fellow, her project is the result of a partnership between Embrapa and the Lab, which is entitled “Evaluation of grouping methods for genetic diversity studies”. For more information about Laura, visit her [Lattes CV](http://lattes.cnpq.br/5953628951878004).
+
+#### Marina Cunha Bernardes (by herself)
+
+_**Marina**_ is an undergraduate student in Agronomic Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP). She has started her studies at Statistical Genetics Lab in 2021. Currently, Marina is focusing her studies on quantitative genetics, linear algebra and programming softwares for genetic mapping.
