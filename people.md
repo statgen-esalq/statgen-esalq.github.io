@@ -53,24 +53,27 @@ During her undergraduate, she had a three-year internship in a Cotton Breeding P
 
 During his major and master's degree, he worked with tissue culture and molecular markers in the cultures of Sugarcane, Palm oil, Macaúba palm and passion fruit. Currently, he is a Ph.D. candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He has dedicated his studies to quantitative genetics, genome-wide association, QTL mapping and genomic selection. For more information about Wellingson, please visit his [Lattes CV](http://lattes.cnpq.br/1557919698222512).
 
-#### Gabriel Mamédio (by himself)  
+#### Gabriel Mamedio de Freitas (by himself)  
 
 <img src="{{ site.url }}/images/gabrielmamedio.jpeg" width="140">{: .image-pull-right} _**Gabriel**_ is a PhD student in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is an Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Góias (UFG).
 
-During his undergraduate and Master degrees he worked with tissue culture of Cerrado’s natives species and sugarcane. Nowadays, Gabriel is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Gabriel, please visit his [Lattes CV]().
+During his undergraduate and Master degrees he worked with tissue culture of Cerrado’s natives species and sugarcane. Nowadays, Gabriel is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Gabriel, please visit his [Lattes CV](http://lattes.cnpq.br/8803120627880450).
 
 #### Diana Solarte (by herself)
+
 <img src="{{ site.url }}/images/diana.jpeg" width="140">{: .image-pull-right}
 _**Diana**_ received a master's degree in Agricultural Sciences from Colombia's National University, graduated in Agricultural Engineering from Cauca University and is currently advancing her doctoral studies at University of Sao Paulo (ESALQ/USP).
  
 During her professional career she has been involved researching in different public and private institutions in Colombia including CIAT, SENA, Cauca University, Colombia's National University and Tolima University. Experience as a breeder on species such as forages, tomato, andean beans, forests and cannabis sativa. Research main lines molecular biology, plant pathology, population genetics, community-based participatory breeding, quantitative genetics and omics. Currently, her doctoral research involves genetic diversity studies and genome wide association studies for oligogenic traits in cassava. For more information about Diana, please visit her [Lattes CV](http://lattes.cnpq.br/7244486922968382).
 
 #### Pedro Henrique de Souza (by himself)
+
 <img src="{{ site.url }}/images/pedro.jpeg" width="140">{: .image-pull-right}_**Pedro**_  has started as a field technician, working in a farm and always feeling the need to study and understand more about agriculture. 
 
 That thought drove him to the Federal University of Goiás (UFG) where he got a bachelor degree in Agronomy, and latter, working with genetic control of the CpMMV in beans, he got a master's degree in genetics and plant breeding. Pedro is Currently studying maize breeding at the University of São Paulo (ESALQ/USP), aiming a better use of molecular markers and field trials to select the best genotypes, and increase the gains in a breeding program. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/2869801032172845).
 
 #### Heitor Calux Mendonça (by himself)
+
 <img src="{{ site.url }}/images/heitor.jpeg" width="140">{: .image-pull-right}
 _**Heitor**_  is a PhD student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). 
 
@@ -86,10 +89,11 @@ He is an agronomist with a master’s degree in Genetics and Molecular Biology (
 During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises genomic and environment interaction. For more information about Vitória, please visit her [Lattes CV](http://lattes.cnpq.br/9957782887703497).
 
 #### Talissa de Oliveira Floriani (by herself)  
+
 <img src="{{ site.url }}/images/talissa.jpeg" width="240">{: .image-pull-right}
 _**Talissa**_ has a degree in Agronomy from Santa Catarina State University (UDESC) and is current doing her Master's in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of Sao Paulo(ESALQ/USP).
 
-During her undergraduate program she worked on quantiative genetics and the root system in the common bean. Talissa did her senior year at the University of California Davis (UCD), where she worked with domestication syndrome and quantiative traits in common bean, lima bean and garbanzo beans, at the Gepts Lab(Laboratory of Dr. Paul Gepts). Currently she is working on a project from FAPESP with Common bean response to the root knot nematode *Meloidoyne incognita*, linkage map and QTL mapping. She also joined the lab improvements for OneMap Software and is also a member from DS4GEN (Data Science for Genetics).
+During her undergraduate program she worked on quantiative genetics and the root system in the common bean. Talissa did her senior year at the University of California Davis (UCD), where she worked with domestication syndrome and quantiative traits in common bean, lima bean and garbanzo beans, at the Gepts Lab(Laboratory of Dr. Paul Gepts). Currently she is working on a project from FAPESP with Common bean response to the root knot nematode *Meloidoyne incognita*, linkage map and QTL mapping. She also joined the lab improvements for OneMap Software and is also a member from DS4GEN (Data Science for Genetics). For more information about Talissa, please visit her [Lattes CV](http://lattes.cnpq.br/7372990970696637).
 
 #### Adilson Aderito (by himself)
 
