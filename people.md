@@ -86,16 +86,12 @@ That thought drove him to the Federal University of Goiás (UFG) where he got a 
 
 #### Heitor Calux Mendonça (by himself)
 
-<img src="{{ site.url }}/images/heitor.jpeg.jpg" width="140">{: .image-pull-right}
+<img src="{{ site.url }}/images/heitor.jpg" width="140">{: .image-pull-right}
 _**Heitor**_  is a PhD student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). 
 
 He is an agronomist with a master’s degree in Genetics and Molecular Biology (Londrina State University). During his master’s he worked with Brazilian soybean cultivars, focusing on genetic diversity, selection signatures and the genetic architecture of quantitative traits. For more information about Heitor, please visit his [Lattes CV](http://lattes.cnpq.br/8232680548105974).
 
 <br><br>
-
-
-
-
 
 
 ## MSc Students
