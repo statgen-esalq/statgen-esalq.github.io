@@ -72,6 +72,12 @@ During her undergraduate, she had a three-year internship in a Cotton Breeding P
 
 During his major and master's degree, he worked with tissue culture and molecular markers in the cultures of Sugarcane, Palm oil, Macaúba palm and passion fruit. Currently, he is a Ph.D. candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He has dedicated his studies to quantitative genetics, genome-wide association, QTL mapping and genomic selection. For more information about Wellingson, please visit his [Lattes CV](http://lattes.cnpq.br/1557919698222512).
 
+#### Gabriel Mamédio (by himself)  
+
+<img src="{{ site.url }}/file:///home/talissa/Downloads/gabrielmamedio.jpeg" width="140">{: .image-pull-right} _**Gabriel**_ is a PhD student in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is an Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Góias (UFG).
+
+During his undergraduate and Master degrees he worked with tissue culture of Cerrado’s natives species and sugarcane. Nowadays, Gabriel is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Gabriel, please visit his [Lattes CV]().
+
 ## MSc Students
 
 #### Vitória Bizão Murakami (by herself)
