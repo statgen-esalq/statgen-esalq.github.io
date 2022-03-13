@@ -78,7 +78,14 @@ That thought drove him to the Federal University of Goiás (UFG) where he got a 
 During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises genomic and environment interaction. For more information about Vitória, please visit her [Lattes CV](http://lattes.cnpq.br/9957782887703497).
 
 #### Talissa de Oliveira Floriani (by herself)  
+<img src="{{ site.url }}/images/talissaa.jpeg" width="240">{: .image-pull-right}
 
+
+#### Adilson (by himself)
+
+<img src="{{ site.url }}/images/v.jpeg" width="240">{: .image-pull-right} _**Adilson**_ have a bachelor's degree in Agronomic Engineering from "Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP) and is current doing his master's in the same institution.
+
+He is passionate about ornamental plant breeding, and currently works as a Breeder at Könst Alstroemeria and Ecoflora. Some of the crops he currently works with are Hippeastrum, Orchids, Calla and Alstroemeria. As a master's student at ESALQ-USP he aims with his research to better understand the polyploid nature of Hippeastrum hybrids, setting the basis for future molecular breeding of this crop.
 
 ## Undergraduate Students
 
