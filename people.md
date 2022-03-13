@@ -32,7 +32,6 @@ Emacs, LaTeX, and git, among many other software and tools.
 > understanding of genetic data, under (somehow) realistic assumptions
 > about the involved phenomena".
 
-## Postdocs
 
 ## PhD Students 
 
