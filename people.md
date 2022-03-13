@@ -74,7 +74,7 @@ That thought drove him to the Federal University of Goiás (UFG) where he got a 
 
 #### Heitor Calux Mendonça (by himself)
 
-<img src="{{ site.url }}/images/heitor.jpeg" width="140">{: .image-pull-right}
+<img src="{{ site.url }}/images/heitor.jpeg.jpeg" width="140">{: .image-pull-right}
 _**Heitor**_  is a PhD student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). 
 
 He is an agronomist with a master’s degree in Genetics and Molecular Biology (Londrina State University). During his master’s he worked with Brazilian soybean cultivars, focusing on genetic diversity, selection signatures and the genetic architecture of quantitative traits. For more information about Heitor, please visit his [Lattes CV](http://lattes.cnpq.br/8232680548105974).
@@ -97,7 +97,7 @@ During her undergraduate program she worked on quantiative genetics and the root
 
 #### Adilson Aderito (by himself)
 
-<img src="{{ site.url }}/images/adilson.jpeg" width="240">{: .image-pull-right} _**Adilson**_ have a bachelor's degree in Agronomic Engineering from "Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP) and is current doing his master's in the same institution.
+<img src="{{ site.url }}/images/adilson.jpeg.jpeg" width="240">{: .image-pull-right} _**Adilson**_ have a bachelor's degree in Agronomic Engineering from "Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP) and is current doing his master's in the same institution.
 
 He is passionate about ornamental plant breeding, and currently works as a Breeder at Könst Alstroemeria and Ecoflora. Some of the crops he currently works with are Hippeastrum, Orchids, Calla and Alstroemeria. As a master's student at ESALQ-USP he aims with his research to better understand the polyploid nature of Hippeastrum hybrids, setting the basis for future molecular breeding of this crop. For more information about Adilson, please visit his [Lattes CV](http://lattes.cnpq.br/7203457804653101).
 
@@ -126,13 +126,13 @@ _**Laura**_ is an undergraduate student in agronomic engineering (Bachelor's and
 Currently, she has a Scientific Initiation fellow, her project is the result of a partnership between Embrapa and the Lab, which is entitled “Evaluation of grouping methods for genetic diversity studies”. For more information about Laura, visit her [Lattes CV](http://lattes.cnpq.br/5953628951878004).
 
 #### Brenda Monis Moreno (by herself)
-<img src="{{ site.url }}/images/brenda.jpeg" width="140">{: .image-pull-right}
+<img src="{{ site.url }}/images/brenda.jpeg.jpeg" width="140">{: .image-pull-right}
 _**Brenda**_ is am undergraduate student in Agricultural Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP).
 
 She is doing her second supervised internship at the Statistical Genetics Lab focused on the study of quantitative traits in plant genetics.
 
 #### Lucas Pilenso (by himself)
-<img src="{{ site.url }}/images/lucas.jpg" width="120">{: .image-pull-right} 
+<img src="{{ site.url }}/images/lucas.jpeg.jpeg" width="120">{: .image-pull-right} 
 _**Lucas**_ is an undergraduate student at the Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP).
 
 He is third-year student in agronomic engineering with plans to pursuit a academic career after his graduation. His main interests are genetics, biochemistry and food chemistry, therefore he is an intern in a statistical genetics lab and in a protein biochemistry lab. With these experiences he is more passionate and curious every day, which assures him that becoming an academic researcher is his main goal
