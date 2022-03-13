@@ -11,6 +11,24 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
+#### Kaio Olímpio das Graças Dias (by himself)
+
+ <img src="{{ site.url }}/images/Kaio.jpg" width="130">{: .image-pull-right} _**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (2013) and PhD (2016) in Genetics and Plant Breeding at Federal University of Lavras (UFLA). Kaio did his Postodoc in Genetics and Plant Breeding at the University of Sao Paulo (ESALQ/USP) and finished his studies in 2021.
+
+In 2010, he was at University of Minnesota as a trainee. As a PhD candidate, he was a visitor Scholar at University of Florida in 2015, working in a statistical-genetics model for genotype-by-environment interaction for genome wide selection analysis. In 2018 Kaio was a visting researcher at the University of Hohenheim na Biostatistics Unit - Germany. Curently, Kaio is an adjunct professor at the Federal University of Viçosa (UFV) in Quantitative Genetics. For more information about Kaio, please visit his [Lattes CV](http://lattes.cnpq.br/7079781475856604).
+
+
+#### Cristiane Hayumi Taniguti (by herself)
+
+<img src="{{ site.url }}/images/Cristiane.jpeg" width="130">{: .image-pull-right} _**Cristiane**_  is Master and PhD in Genetics and Plant Breeding from "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
+
+Currently, she is a Postodoc Student at Texas A&M University in College Station (U.S), her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
+
+#### Gabriel de Siqueira Gesteira (by himself)
+
+<img src="{{ site.url }}/images/Gabriel.jpg" width="120">{: .image-pull-right} _**Gabriel**_ is a PhD in Genetics and Plant Breeding from “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is an Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). 
+
+During his undergraduate and Master degrees he worked out with soybean breeding, focusing on early cultivar development and evaluation, quantitative genetics and studies about association among quantitative traits. Currently, Gabriel is a Postdoc Student at The North Carolina State University (NCSU) in the U.S, working with the professor Dr. Zhao-Bang Zeng and Dr. Marcelo Mollinari in statistical genetics and bioinformatics. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
 
 
 #### Jéssica Carolina Zilio (by herself) 
