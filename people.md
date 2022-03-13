@@ -125,11 +125,6 @@ Currently, she has a Scientific Initiation fellow at CAPES, her project is the r
 _**Laura**_ is an undergraduate student in agronomic engineering (Bachelor's and licentiate) at the  "Luiz de Queiroz" College of Agriculture (ESALQ/USP).
 Currently, she has a Scientific Initiation fellow, her project is the result of a partnership between Embrapa and the Lab, which is entitled “Evaluation of grouping methods for genetic diversity studies”. For more information about Laura, visit her [Lattes CV](http://lattes.cnpq.br/5953628951878004).
 
-#### Brenda Monis Moreno (by herself)
-<img src="{{ site.url }}/images/brenda.jpeg.jpeg" width="140">{: .image-pull-right}
-_**Brenda**_ is am undergraduate student in Agricultural Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP).
-
-She is doing her second supervised internship at the Statistical Genetics Lab focused on the study of quantitative traits in plant genetics.
 
 #### Lucas Pilenso (by himself)
 <img src="{{ site.url }}/images/lucas.jpeg.jpeg" width="120">{: .image-pull-right} 
@@ -140,3 +135,9 @@ He is third-year student in agronomic engineering with plans to pursuit a academ
 #### Marina Cunha Bernardes (by herself)
 <img src="{{ site.url }}/images/marina.jpeg" width="140">{: .image-pull-right}
 _**Marina**_ is an undergraduate student in Agronomic Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP). She has started her studies at Statistical Genetics Lab in 2021. Currently, Marina is focusing her studies on quantitative genetics, linear algebra and programming softwares for genetic mapping.
+
+#### Brenda Monis Moreno (by herself)
+<img src="{{ site.url }}/images/brenda.jpeg.jpeg" width="140">{: .image-pull-right}
+_**Brenda**_ is am undergraduate student in Agricultural Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP).
+
+She is doing her second supervised internship at the Statistical Genetics Lab focused on the study of quantitative traits in plant genetics.
