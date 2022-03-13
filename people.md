@@ -34,25 +34,7 @@ Emacs, LaTeX, and git, among many other software and tools.
 
 ## Postdocs
 
-#### Kaio Olímpio das Graças Dias (by himself)
-
- <img src="{{ site.url }}/images/Kaio.jpg" width="130">{: .image-pull-right} _**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (2013) and PhD (2016) in Genetics and Plant Breeding at Federal University of Lavras (UFLA).
-
-In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he was a visitor Scholar at University of Florida in 2015, working in a statistical-genetics model for genotype-by-environment interaction for genome wide selection analysis. He has experience in plant breeding, quantitative genetics, linear mixed models and genome wide selection. His currently work is about quantitative genetics, linear mixed model and bayesian approach applied to plant breeding. For more information about Kaio, please visit his [Lattes CV](http://lattes.cnpq.br/7079781475856604).
-
-## PhD Students
-
-#### Cristiane Hayumi Taniguti (by herself)
-
-<img src="{{ site.url }}/images/Cristiane.jpeg" width="130">{: .image-pull-right} _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
-
-She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
-
-#### Gabriel de Siqueira Gesteira (by himself)
-
-<img src="{{ site.url }}/images/Gabriel.jpg" width="120">{: .image-pull-right} _**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). 
-
-During his undergraduate and Master degrees he worked out with soybean breeding, focusing on early cultivar development and evaluation, quantitative genetics and studies about association among quantitative traits. Nowadays, Gabriel is interested in quantitative genetics, genomic selection, genome-wide association studies and development of statistical methods for plant breeding. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
+## PhD Students 
 
 #### Getúlio Caixeta Ferreira (by himself)
 
@@ -99,7 +81,7 @@ During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Se
 #### Talissa de Oliveira Floriani (by herself)  
 
 
-## Undergraduated students
+## Undergraduate Students
 
 #### Pedro Afonso Jaloto (by himself)
 <img src="{{ site.url }}/images/pedro.png" height="40" >{: .image-pull-right} 
