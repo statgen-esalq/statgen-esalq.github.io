@@ -61,7 +61,7 @@ During his undergraduate and Master degrees he worked with tissue culture of Cer
 
 #### Diana Solarte (by herself)
 
-<img src="{{ site.url }}/images/diana.jpeg" width="140">{: .image-pull-right}
+<img src="{{ site.url }}/images/diana.jpeg.jpg" width="140">{: .image-pull-right}
 _**Diana**_ received a master's degree in Agricultural Sciences from Colombia's National University, graduated in Agricultural Engineering from Cauca University and is currently advancing her doctoral studies at University of Sao Paulo (ESALQ/USP).
  
 During her professional career she has been involved researching in different public and private institutions in Colombia including CIAT, SENA, Cauca University, Colombia's National University and Tolima University. Experience as a breeder on species such as forages, tomato, andean beans, forests and cannabis sativa. Research main lines molecular biology, plant pathology, population genetics, community-based participatory breeding, quantitative genetics and omics. Currently, her doctoral research involves genetic diversity studies and genome wide association studies for oligogenic traits in cassava. For more information about Diana, please visit her [Lattes CV](http://lattes.cnpq.br/7244486922968382).
@@ -74,7 +74,7 @@ That thought drove him to the Federal University of Goiás (UFG) where he got a 
 
 #### Heitor Calux Mendonça (by himself)
 
-<img src="{{ site.url }}/images/heitor.jpeg.jpeg" width="140">{: .image-pull-right}
+<img src="{{ site.url }}/images/heitor.jpeg.jpg" width="140">{: .image-pull-right}
 _**Heitor**_  is a PhD student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). 
 
 He is an agronomist with a master’s degree in Genetics and Molecular Biology (Londrina State University). During his master’s he worked with Brazilian soybean cultivars, focusing on genetic diversity, selection signatures and the genetic architecture of quantitative traits. For more information about Heitor, please visit his [Lattes CV](http://lattes.cnpq.br/8232680548105974).
