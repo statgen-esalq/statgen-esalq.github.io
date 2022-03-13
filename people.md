@@ -86,14 +86,16 @@ He is an agronomist with a master’s degree in Genetics and Molecular Biology (
 During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises genomic and environment interaction. For more information about Vitória, please visit her [Lattes CV](http://lattes.cnpq.br/9957782887703497).
 
 #### Talissa de Oliveira Floriani (by herself)  
-<img src="{{ site.url }}/images/talissaa.jpeg" width="240">{: .image-pull-right}
+<img src="{{ site.url }}/images/talissa.jpeg" width="240">{: .image-pull-right}
+_**Talissa**_ has a degree in Agronomy from Santa Catarina State University (UDESC) and is current doing her Master's in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of Sao Paulo(ESALQ/USP).
 
+During her undergraduate program she worked on quantiative genetics and the root system in the common bean. Talissa did her senior year at the University of California Davis (UCD), where she worked with domestication syndrome and quantiative traits in common bean, lima bean and garbanzo beans, at the Gepts Lab(Laboratory of Dr. Paul Gepts). Currently she is working on a project from FAPESP with Common bean response to the root knot nematode *Meloidoyne incognita*, linkage map and QTL mapping. She also joined the lab improvements for OneMap Software and is also a member from DS4GEN (Data Science for Genetics).
 
-#### Adilson (by himself)
+#### Adilson Aderito (by himself)
 
-<img src="{{ site.url }}/images/v.jpeg" width="240">{: .image-pull-right} _**Adilson**_ have a bachelor's degree in Agronomic Engineering from "Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP) and is current doing his master's in the same institution.
+<img src="{{ site.url }}/images/adilson.jpeg" width="240">{: .image-pull-right} _**Adilson**_ have a bachelor's degree in Agronomic Engineering from "Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP) and is current doing his master's in the same institution.
 
-He is passionate about ornamental plant breeding, and currently works as a Breeder at Könst Alstroemeria and Ecoflora. Some of the crops he currently works with are Hippeastrum, Orchids, Calla and Alstroemeria. As a master's student at ESALQ-USP he aims with his research to better understand the polyploid nature of Hippeastrum hybrids, setting the basis for future molecular breeding of this crop.
+He is passionate about ornamental plant breeding, and currently works as a Breeder at Könst Alstroemeria and Ecoflora. Some of the crops he currently works with are Hippeastrum, Orchids, Calla and Alstroemeria. As a master's student at ESALQ-USP he aims with his research to better understand the polyploid nature of Hippeastrum hybrids, setting the basis for future molecular breeding of this crop. For more information about Adilson, please visit his [Lattes CV](http://lattes.cnpq.br/7203457804653101).
 
 ## Undergraduate Students
 
