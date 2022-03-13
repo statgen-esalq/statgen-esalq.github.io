@@ -60,9 +60,10 @@ During his major and master's degree, he worked with tissue culture and molecula
 During his undergraduate and Master degrees he worked with tissue culture of Cerrado’s natives species and sugarcane. Nowadays, Gabriel is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Gabriel, please visit his [Lattes CV]().
 
 #### Diana Solarte (by herself)
+<img src="{{ site.url }}/images/diana.jpeg" width="140">{: .image-pull-right}
 _**Diana**_ received a master's degree in Agricultural Sciences from Colombia's National University, graduated in Agricultural Engineering from Cauca University and is currently advancing her doctoral studies at University of Sao Paulo (ESALQ/USP).
  
-During her professional career she has been involved researching in different public and private institutions in Colombia including CIAT, SENA, Cauca University, Colombia's National University and Tolima University. Experience as a breeder on species such as forages, tomato, andean beans, forests and cannabis sativa. Research main lines molecular biology, plant pathology, population genetics, community-based participatory breeding, quantitative genetics and omics. Currently, her doctoral research involves genetic diversity studies and genome wide association studies for oligogenic traits in cassava
+During her professional career she has been involved researching in different public and private institutions in Colombia including CIAT, SENA, Cauca University, Colombia's National University and Tolima University. Experience as a breeder on species such as forages, tomato, andean beans, forests and cannabis sativa. Research main lines molecular biology, plant pathology, population genetics, community-based participatory breeding, quantitative genetics and omics. Currently, her doctoral research involves genetic diversity studies and genome wide association studies for oligogenic traits in cassava. For more information about Diana, please visit her [Lattes CV](http://lattes.cnpq.br/7244486922968382).
 
 #### Pedro Henrique de Souza (by himself)
 <img src="{{ site.url }}/images/pedro.jpeg" width="140">{: .image-pull-right}_**Pedro**_  has started as a field technician, working in a farm and always feeling the need to study and understand more about agriculture. 
