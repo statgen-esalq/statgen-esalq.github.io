@@ -74,7 +74,7 @@ During his major and master's degree, he worked with tissue culture and molecula
 
 #### Gabriel Mamédio (by himself)  
 
-<img src="{{ site.url }}/file:///home/talissa/Downloads/gabrielmamedio.jpeg" width="140">{: .image-pull-right} _**Gabriel**_ is a PhD student in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is an Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Góias (UFG).
+<img src="{{ site.url }}/images/gabrielmamedio.jpeg" width="140">{: .image-pull-right} _**Gabriel**_ is a PhD student in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is an Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Góias (UFG).
 
 During his undergraduate and Master degrees he worked with tissue culture of Cerrado’s natives species and sugarcane. Nowadays, Gabriel is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Gabriel, please visit his [Lattes CV]().
 
@@ -84,7 +84,7 @@ _**Diana**_ received a master's degree in Agricultural Sciences from Colombia's 
 During her professional career she has been involved researching in different public and private institutions in Colombia including CIAT, SENA, Cauca University, Colombia's National University and Tolima University. Experience as a breeder on species such as forages, tomato, andean beans, forests and cannabis sativa. Research main lines molecular biology, plant pathology, population genetics, community-based participatory breeding, quantitative genetics and omics. Currently, her doctoral research involves genetic diversity studies and genome wide association studies for oligogenic traits in cassava
 
 #### Pedro Henrique de Souza (by himself)
-_**Pedro**_  has started as a field technician, working in a farm and always feeling the need to study and understand more about agriculture. 
+<img src="{{ site.url }}/images/pedro.jpeg" width="140">{: .image-pull-right}_**Pedro**_  has started as a field technician, working in a farm and always feeling the need to study and understand more about agriculture. 
 
 That thought drove him to the Federal University of Goiás (UFG) where he got a bachelor degree in Agronomy, and latter, working with genetic control of the CpMMV in beans, he got a master's degree in genetics and plant breeding. Pedro is Currently studying maize breeding at the University of São Paulo (ESALQ/USP), aiming a better use of molecular markers and field trials to select the best genotypes, and increase the gains in a breeding program. For more information about Pedro, please visit his [Lattes CV](http://lattes.cnpq.br/2869801032172845).
 
