@@ -22,7 +22,7 @@ In 2010, he was at University of Minnesota as a trainee. As a PhD candidate, he 
 
 <img src="{{ site.url }}/images/Cristiane.jpeg" width="130">{: .image-pull-right} _**Cristiane**_  is Master and PhD in Genetics and Plant Breeding from "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). 
 
-Currently, she is a Postodoc Student at Texas A&M University in College Station (U.S), her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
+Currently, she is a Postodoc Student at Texas A&M University in College Station (U.S) with Dr. David Byrne and Dr. Oscar Riera-Lizarazu, her research involves improvements in algorithms to build linkage maps considering big amount of genetic markers and outcrossing populations. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836) and her [web page](http://cristianetaniguti.github.io/) with didatic materials.
 
 #### Gabriel de Siqueira Gesteira (by himself)
 
