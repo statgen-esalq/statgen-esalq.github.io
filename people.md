@@ -166,3 +166,11 @@ _**Marina**_ is an undergraduate student in Agronomic Engineering at “Luiz de 
 _**Brenda**_ is am undergraduate student in Agricultural Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP).
 
 She is doing her second supervised internship at the Statistical Genetics Lab focused on the study of quantitative traits in plant genetics.
+
+#### Pedro Henrique Massaro da Silveira (by himself)
+<img src="{{ site.url }}/images/pedroapontador.jpeg" width="140">{: .image-pull-right}
+_**Pedro**_ is an agronomic engineering undergraduate student at “Luiz de Queiroz” College of Agriculture (ESALQ/USP).
+
+He had a six-month internship at Bioinformatics Applied to Bioenergy Laboratory, working on RNA-seq and programming in R. Currently he is doing an internship at Statistical Genetics Laboratory. He has interest in studying programming and statistical methods for plant breeding..
+
+<br><br>
