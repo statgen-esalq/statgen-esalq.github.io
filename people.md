@@ -168,6 +168,8 @@ _**Brenda**_ is am undergraduate student in Agricultural Engineering at “Luiz 
 She is doing her second supervised internship at the Statistical Genetics Lab focused on the study of quantitative traits in plant genetics.
 
 <br><br>
+<br><br>
+
 
 #### Pedro Henrique Massaro da Silveira (by himself)
 <img src="{{ site.url }}/images/pedroapontador.jpeg" width="140">{: .image-pull-right}
