@@ -169,6 +169,7 @@ She is doing her second supervised internship at the Statistical Genetics Lab fo
 
 <br><br>
 <br><br>
+<br><br>
 
 
 #### Pedro Henrique Massaro da Silveira (by himself)
@@ -177,4 +178,3 @@ _**Pedro**_ is an agronomic engineering undergraduate student at “Luiz de Quei
 
 He had a six-month internship at Bioinformatics Applied to Bioenergy Laboratory, working on RNA-seq and programming in R. Currently he is doing an internship at Statistical Genetics Laboratory. He has interest in studying programming and statistical methods for plant breeding..
 
-<br><br>
