@@ -107,9 +107,9 @@ During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Se
 #### Talissa de Oliveira Floriani (by herself)  
 
 <img src="{{ site.url }}/images/talissa.jpeg" width="240">{: .image-pull-right}
-_**Talissa**_ has a degree in Agronomy from Santa Catarina State University (UDESC) and is current doing her Master's in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of Sao Paulo(ESALQ/USP).
+_**Talissa**_ has a degree in Agronomy from Santa Catarina State University (UDESC) and is currently a Master's student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of Sao Paulo(ESALQ/USP).
 
-During her undergraduate program she worked on quantiative genetics and the root system in the common bean. Talissa did her senior year at the University of California Davis (UCD), where she worked with domestication syndrome and quantiative traits in common bean, lima bean and garbanzo beans, at the Gepts Lab(Laboratory of Dr. Paul Gepts). Currently she is working on a project from FAPESP with Common bean response to the root knot nematode *Meloidoyne incognita*, linkage map and QTL mapping. She also joined the lab improvements for OneMap Software and is also a member from DS4GEN (Data Science for Genetics). For more information about Talissa, please visit her [Lattes CV](http://lattes.cnpq.br/7372990970696637).
+During her undergraduate program she worked on quantiative genetics and the root system in the common bean (*Phaseolus vulgaris* L.). Talissa did her senior year at the University of California Davis (UCD), where she worked on domestication syndrome and quantiative traits in common bean, lima bean and garbanzo beans, at the Gepts Lab(Laboratory of Dr. Paul Gepts). Currently she is working on a project from FAPESP with Common bean response to the root knot nematode *Meloidoyne incognita*, linkage map and QTL mapping. She also joined the lab improvements for OneMap Software and is also a member from DS4GEN (Data Science for Genetics). For more information about Talissa, please visit her [Lattes CV](http://lattes.cnpq.br/7372990970696637).
 
 <br><br>
 
