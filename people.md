@@ -100,7 +100,7 @@ He is an agronomist with a master’s degree in Genetics and Molecular Biology (
 
 <img src="{{ site.url }}/images/vitoria.jpeg" width="240">{: .image-pull-right} _**Vitória**_ has a degree in Biotechnology by Universidade Federal de São Carlos (USFCar). 
 
-During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises genomic and environment interaction. For more information about Vitória, please visit her [Lattes CV](http://lattes.cnpq.br/9957782887703497).
+During her undergraduate she did a Scientific Initiation (CNPq) about Genomic Selection in citrus. Currently, she is a master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ/USP) and her research comprises Genotype-by-Environment interaction. For more information about Vitória, please visit her [Lattes CV](http://lattes.cnpq.br/9957782887703497).
 
 <br><br>
 
@@ -157,7 +157,7 @@ He is third-year student in agronomic engineering with plans to pursuit a academ
 
 #### Marina Cunha Bernardes (by herself)
 <img src="{{ site.url }}/images/marina.jpeg" width="140">{: .image-pull-right}
-_**Marina**_ is an undergraduate student in Agronomic Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP). She has started her studies at Statistical Genetics Lab in 2021. Currently, Marina is focusing her studies on quantitative genetics, linear algebra and programming softwares for genetic mapping.
+_**Marina**_ is an undergraduate student in Agronomic Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP). She has started her studies at Statistical Genetics Lab in 2021. Currently, Marina is focusing her studies on quantitative genetics, linear algebra and programming softwares for genetic mapping. For more information about Marina, please visit her [Lattes CV](http://lattes.cnpq.br/6651383213767329).
 
 <br><br>
 
