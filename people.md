@@ -147,14 +147,6 @@ Currently, she has a Scientific Initiation fellow, her project is the result of 
 
 <br><br>
 
-#### Lucas Pilenso (by himself)
-<img src="{{ site.url }}/images/lucas.jpeg.jpeg" width="120">{: .image-pull-right} 
-_**Lucas**_ is an undergraduate student at the Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP).
-
-He is third-year student in agronomic engineering with plans to pursuit a academic career after his graduation. His main interests are genetics, biochemistry and food chemistry, therefore he is an intern in a statistical genetics lab and in a protein biochemistry lab. With these experiences he is more passionate and curious every day, which assures him that becoming an academic researcher is his main goal
-
-<br><br>
-
 #### Marina Cunha Bernardes (by herself)
 <img src="{{ site.url }}/images/marina.jpeg" width="140">{: .image-pull-right}
 _**Marina**_ is an undergraduate student in Agronomic Engineering at “Luiz de Queiroz” College of Agriculture, University of Sao Paulo (ESALQ/USP). She has started her studies at Statistical Genetics Lab in 2021. Currently, Marina is focusing her studies on quantitative genetics, linear algebra and programming softwares for genetic mapping. For more information about Marina, please visit her [Lattes CV](http://lattes.cnpq.br/6651383213767329).
